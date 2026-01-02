@@ -1,0 +1,6 @@
+[submodule "smart-subscriptions-frontend"]
+	path = smart-subscriptions-frontend
+	url = https://github.com/doberman24/smart-subscriptions-frontend.git
+[submodule "smart-subscriptions-backend"]
+	path = smart-subscriptions-backend
+	url = https://github.com/doberman24/smart-subscriptions-backend.git
